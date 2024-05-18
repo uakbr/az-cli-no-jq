@@ -1,6 +1,5 @@
 # Azure Resource Security Scanner
 
-## Introduction
 The Azure Resource Security Scanner is a comprehensive Bash script suite designed to assess and report on the security configurations of various Azure resources across multiple subscriptions. This tool leverages Azure CLI (`az-cli`) to interact with Azure resources, ensuring compatibility and ease of use within a Windows 10 Virtual Desktop Infrastructure (VDI) environment.
 
 ## Architecture and Design
