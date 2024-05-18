@@ -44,6 +44,3 @@ Example:
 - **Parallel Processing**: Implement parallel data collection for different subscriptions to enhance performance.
 - **Dynamic Resource Type Handling**: Automate the inclusion of new Azure resource types without modifying the script.
 - **Enhanced Error Handling**: Improve error reporting and handling mechanisms to provide clearer diagnostics.
-
-## Conclusion
-The Azure Resource Security Scanner is a robust tool designed to perform security assessments on Azure resources efficiently. Its modular architecture and adherence to best practices ensure that it is both maintainable and scalable, suitable for environments requiring stringent security measures.
